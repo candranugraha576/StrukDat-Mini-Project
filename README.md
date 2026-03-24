@@ -1,0 +1,2 @@
+# StrukDat-Mini-Project
+puh
